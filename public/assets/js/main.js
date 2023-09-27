@@ -10,11 +10,11 @@ $(document).ready(function () {
         $('.target-nama').text(nama)
     }
 
-    $("section").hide();
-    $("#intro").show();
+    // $("section").hide();
+    // $("#intro").show();
     
-    var tinggi = $("#intro").outerHeight();
-    $("body").css("height",tinggi+"px");
+    // var tinggi = $("#intro").outerHeight();
+    // $("body").css("height",tinggi+"px");
 
     function music() {
         $(".hidden").css("display","block"); 

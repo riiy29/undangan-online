@@ -12,7 +12,7 @@
     font-weight: bold;
 }
 .navbar a,p {
-    color:#7d3513;
+    color:#820000;
 }
 .navbar .center {
     font-size: 22px;
@@ -44,7 +44,7 @@
 
 /* link sosmed button */
 .link-sosmed a {
-    border: 1px solid #7d3513;
+    border: 1px solid #820000;
     padding: 10px 14px;
     border-radius: 50%;
     color: #a94e24;
