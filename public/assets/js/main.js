@@ -120,5 +120,7 @@ $(document).ready(function () {
         
         // Prevent the browser from showing the attribute name of the clicked link in the address bar
         e.preventDefault();
+
+        $('.per-section').css('padding-bottom', '70px')
     });
 });
